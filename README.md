@@ -40,4 +40,4 @@ To build a functional, end-to-end data application that handles real-time data c
     ```
 
 ---
-**Author:** [Your Name]
+**Author:** Pradeep Sehrawat
