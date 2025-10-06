@@ -27,7 +27,7 @@ To build a functional, end-to-end data application that handles real-time data c
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_REPO_LINK]
+    git clone (https://github.com/pradeep3114/sipzooppp-pos-streamlit/tree/main)
     cd sipzooppp-pos-streamlit
     ```
 2.  **Install dependencies:**
